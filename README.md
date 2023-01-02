@@ -1,4 +1,4 @@
-# profile# 💫 About Me:
+💫 About Me:
 Hello! My name is Thoriq and I am a Junior Technical Analytics Consultant at ilmuOne Data with a strong interest in becoming a data science<br><br>I have a background in physics, which has provided me with a strong foundation in analytical thinking and problem-solving skills. I am constantly seeking to expand my knowledge and skills in the field of data science and have completed multiple online courses in data analysis/science.
 
 
